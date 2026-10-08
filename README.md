@@ -30,4 +30,3 @@ Developed for UNSW COMP4337/9337 as a team assignment. The assignment diary cred
 ## Verification status
 
 Four network-free unit tests passed on 8 October 2026 with Python 3.12: threshold-subset reconstruction, Bloom-filter merging, serialization and identical-filter backend matching. Run `python -m unittest discover -s tests -v`. False-positive rates and the multi-node protocol have not been validated.
-
